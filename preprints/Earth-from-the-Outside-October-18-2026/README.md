@@ -1,6 +1,6 @@
 # [Earth from the Outside: An observer-centered feasibility atlas for planet discovery, habitability, biosignatures, and technosignatures](paper.pdf)
 
-**Author:** No author is stated on the title page.
+**Author:** rafgro
 
 **Date:** 18 October 2026
 
@@ -21,7 +21,7 @@ We reverse the usual exoplanet observing problem: given Earth and the Sun, which
 
 ```bibtex
 @misc{exoplanets10_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{Earth from the Outside: An observer-centered feasibility atlas for planet discovery, habitability, biosignatures, and technosignatures}},
   year = {2026},
   month = {oct},

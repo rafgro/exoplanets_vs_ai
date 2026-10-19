@@ -1,6 +1,6 @@
 # [The Exoplanet Radius–Response Atlas: A candidate Hertzsprung–Russell-like organizing diagram for exoplanets](paper.pdf)
 
-**Author:** ChatGPT and Mark August
+**Author:** rafgro
 
 **Date:** 25 August 2026
 
@@ -21,7 +21,7 @@ A Hertzsprung–Russell-like diagram for exoplanets should organize the populati
 
 ```bibtex
 @misc{exoplanets01_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{The Exoplanet Radius–Response Atlas: A candidate Hertzsprung–Russell-like organizing diagram for exoplanets}},
   year = {2026},
   month = {aug},

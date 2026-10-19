@@ -1,6 +1,6 @@
 # [No confirmed extragalactic planets: a reassessment of every published candidate](paper.pdf)
 
-**Author:** Not specified; the PDF contains author and affiliation placeholders.
+**Author:** rafgro
 
 **Date:** 17 October 2026
 
@@ -21,7 +21,7 @@ Eleven claims of planets, or planet-mass populations, beyond the Milky Way have 
 
 ```bibtex
 @misc{exoplanets06_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{No confirmed extragalactic planets: a reassessment of every published candidate}},
   year = {2026},
   month = {oct},

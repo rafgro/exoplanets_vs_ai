@@ -1,6 +1,6 @@
 # [The Age Dependence of the Kepler Radius Valley Is Confined to the First Gigayear: A Confounder-Controlled Re-analysis with Forward-Modelled Age Uncertainties](paper.pdf)
 
-**Author:** A. Author (placeholder in the PDF).
+**Author:** rafgro
 
 **Date:** 14 October 2026
 
@@ -21,7 +21,7 @@ The number ratio of super-Earths to sub-Neptunes has been reported to rise with 
 
 ```bibtex
 @misc{exoplanets03_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{The Age Dependence of the Kepler Radius Valley Is Confined to the First Gigayear: A Confounder-Controlled Re-analysis with Forward-Modelled Age Uncertainties}},
   year = {2026},
   month = {oct},

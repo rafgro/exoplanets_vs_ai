@@ -1,6 +1,6 @@
 # [The Wow! signal faded while it was in the beam: a recorder-aware reanalysis, a frequency-reference discrepancy, and constraints on natural and artificial origins](paper.pdf)
 
-**Author:** Not specified; the PDF contains an author placeholder.
+**Author:** rafgro
 
 **Date:** 17 October 2026
 
@@ -21,7 +21,7 @@ The 1977 “Wow!” signal survives as six quantized signal-to-noise values (6EQ
 
 ```bibtex
 @misc{exoplanets07_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{The Wow! signal faded while it was in the beam: a recorder-aware reanalysis, a frequency-reference discrepancy, and constraints on natural and artificial origins}},
   year = {2026},
   month = {oct},

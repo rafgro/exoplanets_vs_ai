@@ -1,6 +1,6 @@
 # [From Planetary Chemistry to the Prevalence of Life: A Probabilistic Drake Framework](paper.pdf)
 
-**Author:** Not specified; the PDF contains author and affiliation placeholders.
+**Author:** rafgro
 
 **Date:** October 2026 (revised working draft; no day stated)
 
@@ -21,7 +21,7 @@ The biological factors of the Drake equation describe outcomes without specifyin
 
 ```bibtex
 @misc{exoplanets02_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{From Planetary Chemistry to the Prevalence of Life: A Probabilistic Drake Framework}},
   year = {2026},
   month = {oct},

@@ -1,6 +1,6 @@
 # [Under what conditions do outer giants coexist with inner small planets? Orbital coherence, excitation history, and observational selection](paper.pdf)
 
-**Author:** Not specified; the PDF contains author and affiliation placeholders.
+**Author:** rafgro
 
 **Date:** 15 October 2026
 
@@ -21,7 +21,7 @@ Outer giants coexist with inner small planets when formation supplies the inner 
 
 ```bibtex
 @misc{exoplanets04_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{Under what conditions do outer giants coexist with inner small planets? Orbital coherence, excitation history, and observational selection}},
   year = {2026},
   month = {oct},

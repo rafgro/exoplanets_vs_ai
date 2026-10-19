@@ -1,6 +1,6 @@
 # [Hydrogen envelopes do not imply dry interiors: conditional water constraints for young sub-Neptunes](paper.pdf)
 
-**Author:** Anonymous (as printed in the PDF).
+**Author:** rafgro
 
 **Date:** 17 October 2026
 
@@ -21,7 +21,7 @@ The inflated radii of young planets can distinguish a light-gas envelope from a 
 
 ```bibtex
 @misc{exoplanets08_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{Hydrogen envelopes do not imply dry interiors: conditional water constraints for young sub-Neptunes}},
   year = {2026},
   month = {oct},

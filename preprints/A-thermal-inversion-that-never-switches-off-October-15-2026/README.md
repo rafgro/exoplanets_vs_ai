@@ -1,6 +1,6 @@
 # [A thermal inversion that never switches off: the CO2-band sign flip of 55 Cancri e and the origin of its dayside variability](paper.pdf)
 
-**Author:** Not specified; the PDF contains an author placeholder.
+**Author:** rafgro
 
 **Date:** 15 October 2026
 
@@ -21,7 +21,7 @@ The ultra-short-period super-Earth 55 Cancri e changes its dayside brightness by
 
 ```bibtex
 @misc{exoplanets05_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{A thermal inversion that never switches off: the CO2-band sign flip of 55 Cancri e and the origin of its dayside variability}},
   year = {2026},
   month = {oct},

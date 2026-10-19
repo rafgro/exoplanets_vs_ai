@@ -1,6 +1,6 @@
 # [Where to look for life and technology: An audited decision analysis of confirmed exoplanets](paper.pdf)
 
-**Author:** No author is stated on the title page.
+**Author:** rafgro
 
 **Date:** 17 October 2026
 
@@ -21,7 +21,7 @@ Which confirmed exoplanets should be prioritized when both environmental plausib
 
 ```bibtex
 @misc{exoplanets09_2026,
-  autor = {{rafgro}},
+  author = {{rafgro}},
   title = {{Where to look for life and technology: An audited decision analysis of confirmed exoplanets}},
   year = {2026},
   month = {oct},
